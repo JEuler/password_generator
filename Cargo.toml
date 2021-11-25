@@ -2,6 +2,8 @@
 name = "generate_password"
 version = "0.1.0"
 edition = "2021"
+description = "Use this package to generate password or any 'random' strings with length you want. (Joke, just testing the cargo)"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

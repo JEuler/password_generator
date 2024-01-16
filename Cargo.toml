@@ -10,4 +10,4 @@ repository = "https://github.com/JEuler/password_generator"
 
 [dependencies]
 rand = "0.8.5"
-clap = "3.2.6"
+clap = "3.2.7"
